@@ -12,7 +12,7 @@ import android.view.accessibility.AccessibilityNodeInfo
 import java.util.HashMap
 
 class KeyTrackingService : AccessibilityService() {
-    //
+    //key tracking service
     private var totalStr = ""
     private var isLocked = false
     val inputKeyObj = HashMap<Int, KeyObject>()
