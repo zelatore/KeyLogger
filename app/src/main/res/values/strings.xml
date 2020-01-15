@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">KeyLogger</string>
+    <string name="keyboardTypeSelectInstructionTextVal">사용 중인 키보드 유형을 선택하세요.</string>
+    <string name="qwertyKeyboardSelectText">쿼티 키보드</string>
+    <string name="chunjinKeyboardSelectText">천지인 키보드</string>
+    <string name="accessibility_service_label">KeyTrackingService</string>
+
+</resources>
